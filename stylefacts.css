@@ -1,0 +1,22 @@
+*{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    color: red;
+    text-align: left;
+   
+}
+h1{
+    font-size: 50px;
+    margin-left:50px ;
+   
+}
+.creepy h2{ 
+    margin-left: 50px;
+         text-align:left;
+           font-size: 21px;
+           
+}

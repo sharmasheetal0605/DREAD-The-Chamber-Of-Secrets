@@ -1,0 +1,41 @@
+*{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    color: red;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+   }
+h2{
+    font-size: 40px;
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+}
+img{
+    height: 250px;
+    width: 540px;
+    padding: 50px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 4px red;
+}
+#area{
+    box-shadow: 3px 3px 5px red;
+    border-radius: 5px;
+    border: 2px solid red;
+    color: red;
+}
+button{
+    margin-left: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px red;
+    border: 2px solid red;
+    color: red;
+}
