@@ -1,0 +1,64 @@
+*{
+    scroll-behavior: smooth;
+}
+body{
+    background-color:white;
+    margin: 0px;
+    padding: 0px;
+    color: red;
+    text-align: center;
+}
+.info{
+    height: 260px;
+    width: 250px;
+    background-color: white;
+    
+    margin-top: 50px;
+    margin-left: 500px;
+    padding: 60px;
+    border-radius: 12px;
+    box-shadow: 5px 5px 10px red;
+    border: 2px solid red;
+    color: red;
+}
+.info3{
+    height: 45px;
+    width: 250px;
+    box-shadow: 2px 2px 2px red;
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid red;
+    color: red;
+}
+button{
+    height: 40px;
+    width: 70px;
+    box-shadow: 2px 2px 2px red;
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid red;
+    color: red;
+}
+.info3:hover{
+    box-shadow: 4px 4px 6px red;
+}
+
+button:hover{
+    box-shadow: 4px 4px 6px red;
+}
+.info2 a{
+    text-decoration: none;
+    color: red;
+}
+.out h1{
+    font-size: 50px;
+}
+.info:hover{
+    box-shadow: 2px 2px 4px red;
+}
+.info2 a:hover{
+    font-size: 15px;
+}
+.out h1:hover{
+font-size: 52px;
+}
